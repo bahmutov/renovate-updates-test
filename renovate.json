@@ -9,8 +9,8 @@
   "prConcurrentLimit": 0,
   "packageRules": [
     {
-      "packageNames": ["lodash", "chalk"],
-      "groupName": "lodash and chalk"
+      "packageNames": ["debug", "chalk"],
+      "groupName": "debug and chalk"
     }
   ]
 }

@@ -6,5 +6,7 @@
 - https://renovatebot.com/docs/presets-group/
   * https://renovatebot.com/docs/configuration-options/#packagerules
 
+see [renovate.json](renovate.json) file
+
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
