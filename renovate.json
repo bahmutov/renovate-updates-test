@@ -13,10 +13,14 @@
       "groupName": "debug and chalk"
     },
     {
+      "packagePatterns": "^@types",
+      "groupName": "@types"
+    },
+    {
       "depTypeList": [
         "devDependencies"
       ],
-      "enabled": false
+      "enabled": true
     }
   ]
 }
