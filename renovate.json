@@ -5,6 +5,8 @@
   "rangeStrategy": "pin",
   "timezone": "America/New_York",
   "masterIssue": true,
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
   "packageRules": [
     {
       "packageNames": ["lodash", "chalk"],
