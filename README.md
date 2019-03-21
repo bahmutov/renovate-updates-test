@@ -4,6 +4,7 @@
 - https://renovatebot.com/docs/noise-reduction/
 - https://renovatebot.com/docs/presets-schedule/
 - https://renovatebot.com/docs/presets-group/
+  * https://renovatebot.com/docs/configuration-options/#packagerules
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/

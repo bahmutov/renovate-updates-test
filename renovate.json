@@ -4,5 +4,11 @@
   "lockFileMaintenance": true,
   "rangeStrategy": "pin",
   "timezone": "America/New_York",
-  "masterIssue": true
+  "masterIssue": true,
+  "packageRules": [
+    {
+      "packageNames": ["lodash", "chalk"],
+      "groupName": "lodash and chalk"
+    }
+  ]
 }
