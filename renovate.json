@@ -11,6 +11,12 @@
     {
       "packageNames": ["debug", "chalk"],
       "groupName": "debug and chalk"
+    },
+    {
+      "depTypeList": [
+        "devDependencies"
+      ],
+      "enabled": false
     }
   ]
 }
