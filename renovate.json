@@ -2,5 +2,7 @@
   "extends": ["config:base"],
   "automerge": false,
   "lockFileMaintenance": true,
-  "rangeStrategy": "pin"
+  "rangeStrategy": "pin",
+  "timezone": "America/New_York",
+  "masterIssue": true
 }
