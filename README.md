@@ -1,4 +1,4 @@
-# renovate-updates-test [![renovate-app badge][renovate-badge]][renovate-app]
+# renovate-updates-test [![renovate-app badge][renovate-badge]][renovate-app] [![CircleCI](https://circleci.com/gh/bahmutov/renovate-updates-test.svg?style=svg)](https://circleci.com/gh/bahmutov/renovate-updates-test)
 > Testing how I can group Renovate updates
 
 - https://renovatebot.com/docs/noise-reduction/
