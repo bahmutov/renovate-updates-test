@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/bahmutov/renovate-updates-test#readme",
   "dependencies": {
-    "chalk": "2.4.0",
     "debug": "4.0.1",
     "lodash": "4.17.10"
+  },
+  "devDependencies": {
+    "chalk": "2.4.0"
   }
 }
