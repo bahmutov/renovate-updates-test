@@ -21,7 +21,7 @@
     "lodash": "4.17.10"
   },
   "devDependencies": {
-    "@types/chai": "4.1.4",
+    "@types/chai": "5.2.3",
     "@types/ramda": "0.26.1",
     "chalk": "2.4.0"
   }
